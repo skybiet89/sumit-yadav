@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+    font-family: arial black, sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    margin-top: 0 auto 0 auto;
+}
+
+.top-container {
+    background-color: #69e1fc;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.topcloud {
+    position: absolute;
+    right: 200px;
+}
+
+.bottomcloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.text {
+    font-family: 'Raleway', sans-serif;
+}
+
+.dp {
+    border-radius: 50%;
+}
+
+.java-icon {
+    height: 60px;
+    width: 60px;
+}
+
+.web-icon {
+    height: 60px;
+    width: 60px;
+}
+
+.c-icon {
+    height: 60px;
+    width: 60px;
+}
+
+.twitter {
+    height: 20px;
+    width: 20px;
+}
+
+.linkedin {
+    height: 20px;
+    width: 20px;
+}
+
+.table {
+    align: left;
+    width: 1160px;
+}
+
+.skillp {
+    size: 50px;
+    text-align: center;
+}
+
+.email {
+    height: 20px;
+    width: 20px;
+}
